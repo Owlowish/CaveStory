@@ -1,4 +1,4 @@
-#CaveStory Game Development
+# CaveStory Game Development
 
 2D game development using C++ and SDL framework.
 
